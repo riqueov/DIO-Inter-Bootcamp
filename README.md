@@ -1,4 +1,4 @@
 # DIO-Inter-Bootcamp
-Primeiro desafio de git/gitHub, bootcamp Banco Inter
+Bootcamp Banco Inter, repositório destinado a entrega dos projetos.
 
 ## Test
