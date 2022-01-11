@@ -1,0 +1,20 @@
+body{
+  background: linear-gradient(to bottom, rgb(218, 237, 240),rgb(218, 237, 240), #757575);
+}
+
+.navbar{
+  background-color: rgb(159, 224, 250);
+}
+
+.quem-somos{
+  background: linear-gradient(to bottom, rgb(48, 72, 75), #000000);
+  color: aliceblue;
+}
+
+.justify{
+  text-align: center;
+}
+
+.curve{
+  border-radius: 20px;
+}
