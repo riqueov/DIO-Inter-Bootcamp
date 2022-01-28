@@ -67,13 +67,13 @@ window.addEventListener("load", escutandoEvento2);
 
 
 function mudarCor() {
-  if(NumeroAtual <= 0){
+  if(NumeroAtual < 0){
     document.getElementById("numeroAtual").style.color = 'red';
   }
   NumeroAtualEncapsulado.innerHTML = NumeroAtual;
 }
 function voltaCor() {
-  if(NumeroAtual > 0){
+  if(NumeroAtual >= 0){
     document.getElementById("numeroAtual").style.color = 'black';
   }
   NumeroAtualEncapsulado.innerHTML = NumeroAtual;
