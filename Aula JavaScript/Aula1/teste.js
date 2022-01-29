@@ -39,3 +39,12 @@ var t = 3
 var u = s > t ? 'Sim, s é maior' : 'Sim, t é maior';
 
 console.log(u); */
+
+const carroPopular = 'Onix 2012';
+
+if(carroPopular == 'Onix 2012'){
+  const carroPopular = 'Celta 2014';
+  console.log(carroPopular)  
+  
+}
+console.log(carroPopular)  
