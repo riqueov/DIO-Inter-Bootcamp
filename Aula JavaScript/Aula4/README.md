@@ -1,0 +1,1 @@
+Aula 4 -> Contém "Funções" e "Coleções".

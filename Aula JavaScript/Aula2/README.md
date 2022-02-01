@@ -1,1 +1,1 @@
-Aula 2 -> Contém "Sintaxe Básica em Java Script"
+Aula 2 -> Contém "Sintaxe Básica em Java Script".

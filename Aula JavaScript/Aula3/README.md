@@ -1,1 +1,1 @@
-Aula 3 -> Contém "Sintaxe e Operadores" e "Variaveis e Tipos"
+Aula 3 -> Contém "Sintaxe e Operadores" e "Variaveis e Tipos".
