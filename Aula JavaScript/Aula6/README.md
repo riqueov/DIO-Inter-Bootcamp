@@ -1,0 +1,1 @@
+Aula 6 -> Contém a aula "JavaScript Assíncrono", introdução ao uso de API.
